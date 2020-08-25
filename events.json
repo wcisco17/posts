@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": "80f82ffc-42fc-44d0-9625-9fd9455a7576",
+      "title": "The business model for carbon capture is broken",
+      "author": "Kraig Cupyers",
+      "date": "Mon Aug 26 2021",
+      "image": "https://images.pexels.com/photos/2608516/pexels-photo-2608516.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "carousel": [
+        {
+          "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2700&q=80"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1552960504-34e1e1be3f53?ixlib=rb-1.2.1&auto=format&fit=crop&w=2700&q=80"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1579256945823-f007794790df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
+        }
+      ],
+      "content": {
+        "title": "From the event",
+        "content": "In accusantium perspiciatis provident saepe sint quisquam. Illum et quis consequatur eum. Molestiae ut cupiditate quo reprehenderit ipsa repellendus. Delectus quia tempore sint recusandae. Officiis ex excepturi quam"
+      }
+    },
+    {
+      "id": "5f4b88ba-a2ac-4ff7-acbd-b1b26c978bdc",
+      "title": "How we win in the market",
+      "author": "Matt Heaney",
+      "date": "Mon Aug 22 2020",
+      "image": "https://images.pexels.com/photos/2566581/pexels-photo-2566581.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "carousel": [
+        {
+          "image": "https://images.unsplash.com/photo-1579256945418-f3b7eab8073a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1558402529-d2638a7023e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=2700&q=80"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1565598469107-2bd14ae7e7e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2792&q=80"
+        }
+      ],
+      "content": {
+        "title": "From the event",
+        "content": "In accusantium perspiciatis provident saepe sint quisquam. Illum et quis consequatur eum. Molestiae ut cupiditate quo reprehenderit ipsa repellendus. Delectus quia tempore sint recusandae. Officiis ex excepturi quam"
+      }
+    },
+    {
+      "id": "ba4651ab-8250-4d2e-8bb3-faed15e4f473",
+      "title": "Molestias veniam repellendus",
+      "author": "Hope Bogan",
+      "date": "Mon Sept 12 2020",
+      "image": "https://images.unsplash.com/photo-1563457012475-13cf086fd600?ixlib=rb-1.2.1&auto=format&fit=crop&w=2700&q=80",
+      "carousel": [
+        {
+          "image": "https://images.unsplash.com/photo-1592303637753-ce1e6b8a0ffb?ixlib=rb-1.2.1&auto=format&fit=crop&w=2467&q=80"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1558402529-d2638a7023e9?ixlib=rb-1.2.1&auto=format&fit=crop&w=2700&q=80"
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1565598469107-2bd14ae7e7e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2792&q=80"
+        }
+      ],
+      "content": {
+        "title": "From the event",
+        "content": "In accusantium perspiciatis provident saepe sint quisquam. Illum et quis consequatur eum. Molestiae ut cupiditate quo reprehenderit ipsa repellendus. Delectus quia tempore sint recusandae. Officiis ex excepturi quam"
+      }
+    }
+  ]
+}
